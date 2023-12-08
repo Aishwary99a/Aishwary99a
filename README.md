@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@challaaishwary3" target="blank"><img src="https://img.shields.io/twitter/follow/@challaaishwary3?logo=twitter&style=for-the-badge" alt="@challaaishwary3" /></a> </p>
 
-- 🔭 I’m currently working on **AI Virtual Voice Assistant**
+- 🔭 I’m currently working on **AI Based projects**
 
 - 🌱 I’m currently learning **AI,ML,deep Learning**
 
